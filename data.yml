@@ -21,10 +21,10 @@ locations:
     mappingDefinitions:
       "8":
         database: PC_COALESCE_DB
-        schema: TPCH_SF1
+        schema: TEST
       "9":
         database: PC_COALESCE_DB
-        schema: TPCH_SF1
+        schema: PROD
 macros: {}
 packages: {}
 projects: {}
